@@ -46,4 +46,3 @@ class Movie(MovieBase):
         orm_mode = True
         getter_dict = PeeweeGetterDict
 
-
